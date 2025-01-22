@@ -27,7 +27,7 @@ public class statistics{
     //Main function
     public static void main(String[] args) {
         
-        a
+        
 
     }
 
