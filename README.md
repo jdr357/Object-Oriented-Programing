@@ -1,7 +1,12 @@
 # Object-Oriented-Programing
-This is a repository for CS 3354 in Spring of 2025. M/W 12:30pm
+This is a repository for CS 3354 in Spring of 2025. M/W 12:30pm - 1:50pm
 
-You will see a .DS_Store file in this project, I don't entirely know what it is and I can;t get rid of it on my end. It doesn't effect the code in anyway so ignore that file.
+Group Members:
+    Wyatt Churchman
+    Madeline Pope
+    Eathen Whittle
+    Brenden Lheureux
 
 Folders Description:
     myUtil: This folder contains two files- myPackageMain.java, statistics.java
+        Date created: 1/22/2015
