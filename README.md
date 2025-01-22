@@ -9,7 +9,9 @@ Group Members:
 
 Folders Description:
     myUtil: This folder contains two files- myPackageMain.java, statistics.java
+
         Date folder was created:    1/22/2015
+        
         Date files were created:
             myPackageMain.java:     1/22/2015
             statistics.java:        1/22/2025
