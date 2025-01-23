@@ -9,7 +9,7 @@ Group Members (Group 7):
 
 Folders Description:
 
-    Date folder was created:
+    Date folders were created:
         myUtil:                     1/22/2025
 
     myUtil:
