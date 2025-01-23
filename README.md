@@ -1,7 +1,7 @@
 # Object-Oriented-Programing
 This is a repository for CS 3354 in Spring of 2025. M/W 12:30pm - 1:50pm.
 
-Group Members:
+Group Members (Group 7):
     Wyatt Churchman,
     Madeline Pope,
     Eathen Whittle,
