@@ -1,3 +1,6 @@
+// CS 3354 M/W 12:30-1:50
+// 1-23-25
+// Wyatt Churchman, Madeline Pope, Eathen Whittle, Brenden Lheureux
 package myUtil;
 
 public class myPackageMain {
@@ -6,9 +9,9 @@ public class myPackageMain {
     public static void main(String[] args) {
         
         //Array Declaration
-        int[] myArray = {20, 35, 12, 79, 40, 63, 4};
+        int[] myArray = {20, 1, 12, 79, 40, 63, 4};
         int length = myArray.length;
-        
+
         //Printing Array
         System.out.print("Array: ");
         for(int i = 0; i < length - 1; i++){
